@@ -1,0 +1,8 @@
+numpy 
+opencv-python 
+face-recognition 
+pillow
+fastapi
+uvicorn
+pydantic
+requests
